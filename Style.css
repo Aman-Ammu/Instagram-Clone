@@ -7,6 +7,9 @@
     display:flex;
     gap: 40px;
 }
+.logo1{
+    width:25%;
+}
 .feeds{
     width:590px;
 }
@@ -74,6 +77,10 @@
 .logo{
     height:42px;
     margin-top: 4px;
+    margin-right: 400px;
+    position: absolute;
+    top:50px;
+    left:220px;
 }
 .btn{
     background-color: #fff;
@@ -123,6 +130,9 @@
     }
     .container{
         margin:20px auto;
+    }
+    .logo1{
+        width:25%;
     }
     .feed{
         border:1px solid lightgray;
@@ -190,13 +200,21 @@
     .logo{
         height:42px;
         margin-top: 4px;
+        margin-right: 400px;
+        position: absolute;
+        top:40px;
+        left:70px;
     }
     .btn{
         background-color: #fff;
         border: 1px solid lightgray;
         border-radius: 12px;
         margin-right: 615px;
-        font-size:16px;
+        font-size:14px;
+        width:155px;
+        height:45px;
+        padding-left: 0%;
+        padding-right: 0%;
     }
     .story-container{
         width: 100%;
@@ -247,6 +265,9 @@
         margin:50px auto;
         display:flex;
         gap: 40px;
+    }
+    .logo1{
+        width:25%;
     }
     .feeds{
         width:590px;
@@ -315,6 +336,10 @@
     .logo{
         height:42px;
         margin-top: 4px;
+        margin-right: 400px;
+        position: absolute;
+        top:50px;
+        left:220px;
     }
     .btn{
         background-color: #fff;
